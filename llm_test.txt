@@ -1,0 +1,1418 @@
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Echo
+
+**Commander's Intent:**
+- Achieve 100% destruction of REDLAND's central war production complex.
+- Minimize BLUELAND casualties.
+- Ensure 100% destruction of REDLAND's airbase infrastructure.
+
+**Force Composition:**
+- REDLAND:
+    - 24 x MiG-29 fighter jets
+    - 12 x SA-10 surface-to-air missile launchers
+    - 4 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+    - 100 x Surface-to-surface missile launchers
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 100nm
+- Environment: Day, clear skies, urban environment with heavy industrial development.
+
+**Surrounding Conditions:**
+- REDLAND forces are on high alert.
+- Friendly forces are providing air and ground intelligence.
+- REDLAND's air defenses are known to be sophisticated and well-equipped.
+
+**Target Details:**
+- Central war production complex: Large, fortified complex with multiple production facilities and underground bunkers.
+- Airbase infrastructure: Extensive network of runways, hangars, and fuel storage facilities.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid revealing BLUELAND's intentions.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## BLUELAND Air Strike Training Scenario
+
+**Commander’s Intent:**
+- Capture 100% Total Operational Effectiveness (TOTE)
+- Limit BLUELAND casualties to 50%
+- Achieve 100% destruction of REDLAND forces and infrastructure
+- Destroy all underground bunkers within the target area
+
+**Force Composition:**
+- REDLAND Air Force: 8 F-15C Eagles, 4 Su-35 Flanks, 30 MiG-29 Fulcrum-S, 20 SA-7 surface-to-air missile launchers, 60 ZSU-23-4 Shilka self-propelled anti-aircraft guns.
+- REDLAND Air Defense: 20 SAM-2 missile batteries, 100 short-range air defense guns.
+
+**Geography:**
+- Target: 50nm due south
+- REDLAND Borders: 200nm east, 300nm west
+- Environmental Conditions: Day, clear skies, moderate wind.
+- Surrounding Terrain: Urbanized area with dense infrastructure, some industrial areas, scattered hills.
+
+**Surrounding Conditions:**
+- REDLAND is deploying additional forces to the area.
+- Limited intelligence on REDLAND's air defenses.
+- BLUELAND's allies are preparing a flanking maneuver.
+
+**Target Details:**
+- 4 underground bunkers, each containing 100 surface-to-air missiles.
+- Major industrial complex with hardened infrastructure.
+
+**Rules of Engagement:**
+- Engage REDLAND forces only when positively identified as hostile.
+- Prioritize destroying REDLAND air defenses before engaging other targets.
+- Limit civilian casualties and damage to infrastructure.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Sky
+
+**Commander's Intent:**
+
+- Capture 100% Target of Opportunity (TOT)
+- Maintain 50% maximum BLUELAND aircraft losses
+- Ensure 100% REDLAND Air & Surface forces are destroyed
+- Destroy all underground bunkers within the target area
+
+**Force Composition:**
+
+- REDLAND Air Force: 40x Mirage 200C fighters, 20x Su-35 Flanker-E fighters, 10x S-35V-SM Bison long-range bombers, 10x SA-10 SAM launchers, 50x ZSU-23-4 Shilka SPAAGs, 300x MANPADS.
+- REDLAND Ground Forces: 20x Battalion-sized mechanized infantry, 10x Battalion-sized special forces
+
+**Geography:**
+
+- Distance to target: 250nm
+- Distance to REDLAND airspace: 100nm
+- Environment: Day, clear skies, partially wooded area, multiple buildings and industrial structures. 
+- Target area contains a network of underground bunkers, dispersed across a 5km radius.
+
+**Surrounding Conditions:**
+
+- REDLAND is deploying additional forces to the area. Their readiness is high.
+- Friendly forces have established a suppression of enemy air (SEAD) bubble around the target.
+- Local resistance groups are poised to launch attacks upon completion of the mission.
+
+**Targets:**
+
+- 5x Underground bunker complexes, each containing 200 hardened targets.
+- 1x Communications center, located in a reinforced concrete building.
+
+**Rules of Engagement:**
+
+- Engage only REDLAND forces within the declared engagement area.
+- Maintain maximum precision and minimize civilian casualties.
+- All attacks must be coordinated with SEAD assets.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: BLUELAND Air Strike
+
+**Commander's Intent:**
+- Capture 100% Target of Opportunity (TOT)
+- Limit BLUELAND losses to 50%
+- Ensure 100% destruction of REDLAND forces and infrastructure
+- Destroy all hardened bunkers within the target area
+
+**Force Composition:**
+- REDLAND Air Force: 
+    - 4 x F-22 Raptor fighter jets
+    - 3 x Su-35 Flanker-C fighter jets
+    - 2 x SA-13 Grisha surface-to-air missile launchers
+    - 8 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+- REDLAND Surface Forces:
+    - 2 x Mobile SAM batteries, each with 4 x SA-6 surface-to-air missiles
+    - 10 x Battery-powered anti-aircraft guns
+    - 200 x Anti-tank missiles
+
+**Geography:**
+- Distance to target: 250nm
+- Distance to REDLAND border: 50nm
+- Environmental conditions: Day, clear skies, moderate wind, moderate vegetation
+
+**Surrounding Conditions:**
+- REDLAND forces are deployed in a defensive posture, with mobile SAM batteries and air defense guns concentrated in the southern sector.
+- REDLAND is aware of the impending strike and has scrambled its air defenses.
+
+**Target Details:**
+- 5 hardened bunkers, each with a reinforced steel wall and concrete roof.
+- Central command and control facility with extensive underground defenses.
+
+**Rules of Engagement:**
+- Engage REDLAND forces only when absolutely necessary for mission completion.
+- Priority is to minimize civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid disclosing mission details.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Thunder
+
+**Commander's Intent:**
+
+* Capture 100% Total Ordnance (TOT) effectiveness.
+* Minimize BLUELAND losses below 50%.
+* Ensure 100% destruction of REDLAND's airpower and surface-to-air threat.
+* Destroy all enemy hardened bunkers within the target area.
+
+
+**Force Composition:**
+
+* REDLAND forces deployed to the target area:
+    * 4th Air Division: 8x F-15C Eagle fighter jets, 12x AMRAAM missiles, 4x AIM-120 AMRAAM air-to-air missiles.
+    * 2nd Surface-to-Air Regiment: 18x SA-7 SAM launchers, 8x 9K37 Strela-3 missiles.
+    * 1st Anti-Aircraft Brigade: 48x ZSU-23-4 Shilka self-propelled anti-aircraft guns.
+
+**Geography:**
+
+* Target distance: 120nm
+* REDLAND threats distance: 80nm
+* Environmental conditions: Day, clear skies, partial cloud cover at 5000ft.
+* Buildings and vegetation dense urban environment. Ditches present throughout the target area.
+
+
+**Surrounding Conditions:**
+
+* REDLAND forces poised for counter-offensive.
+* Intelligence reports suggest limited enemy electronic warfare measures in place.
+* Local resistance groups active in the area, potential for collateral damage.
+
+
+**Target Details:**
+
+* 3 hardened bunkers, each with a 120mm thick steel reinforced concrete roof.
+* Centralized target area, well protected by SAM and AAA systems.
+
+
+**Rules of Engagement:**
+
+* Engage REDLAND forces only when engaged or imminent threat to BLUELAND forces.
+* Minimize civilian casualties and damage to infrastructure.
+* Maintain operational security and prevent enemy counter-intelligence.
+
+**Additional Information:**
+
+* Friendly forces providing air-to-ground support and electronic warfare suppression.
+* Target coordinates and engagement parameters provided.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Dawn
+
+**Commander's Intent:**
+
+- Capture 100% Total Operational Effectiveness (TOE)
+- Maintain 50% BLUELAND aircraft losses acceptable
+- Ensure 100% REDLAND air and ground forces are destroyed
+- Destroy all underground bunkers within the target area
+
+**Force Composition:**
+
+- REDLAND:
+    - 4th Air Division: 6x Su-35 fighter jets, 3x Su-27 Flanker-B, 4x MiG-29 Fulcrum-D, 12x S-300 SAM launchers, 6x Shilka SAM batteries, 3x Pantser-3 SAM batteries
+    - 1st Army: 30x T-90 main battle tanks, 60x BMP-3 infantry fighting vehicles, 6x SA-24 reconnaissance drones, 4x Ka-50 attack helicopters
+
+**Geography:**
+
+- Target: 200nm south of BLUELAND border
+- REDLAND border: 300nm east of target
+- Environment: Dawn, clear skies, moderate wind, dense urban environment, tall buildings, dense vegetation
+
+**Surrounding Conditions:**
+
+- REDLAND is deploying additional forces to the area.
+- Intelligence suggests REDLAND has detected BLUELAND reconnaissance drones in the area.
+- BLUELAND forces have established a no-fly zone 50nm around the target.
+
+**Target Details:**
+
+- 5 hardened underground bunkers, each containing 200 anti-personnel missiles.
+- Large military aircraft maintenance hangar.
+
+**Rules of Engagement:**
+
+- Engage REDLAND forces only when conducting a direct attack on the target or when threatened.
+- Maintain maximum operational effectiveness while minimizing civilian casualties.
+- Exercise extreme caution when engaging ground targets.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## BLUELAND AIRSTRIKE TRAINING SCENARIO
+
+**Commander's Intent:**
+- Achieve 95% Target of Opportunity (TOT) destruction.
+- Minimal losses (10%).
+- Ensure complete neutralization of REDLAND forces.
+- Destroy all hardened bunkers within the target area.
+
+
+**Force Composition:**
+
+**REDLAND:**
+- 8x F-15 Eagle fighter jets (20mm cannon, AIM-120 AMRAAM)
+- 4x Su-35 Flanker-B fighter jets (30mm canon, R-77 air-to-air missiles)
+- 6x SA-7 SAM launchers (20km range)
+- 24x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems (8km range)
+
+
+**Geography:**
+- Target distance: 200nm
+- REDLAND threats distance: 150nm
+- Environment: Day, urban landscape, dense vegetation, partially obscured by early morning fog.
+
+
+**Surrounding Conditions:**
+- REDLAND is deploying additional forces to the region.
+- REDLAND air defenses are operating at heightened alert.
+- Friendly forces have established a no-fly zone 50nm around the target.
+
+
+**Target Details:**
+- 3 hardened bunkers, each equipped with a nuclear warhead.
+
+
+**Rules of Engagement:**
+- Engagement with REDLAND forces is permitted only when:
+    - REDLAND forces openly engage BLUELAND forces.
+    - REDLAND forces threaten friendly forces or the target.
+    - BLUELAND forces are conducting reconnaissance or evacuating personnel.
+
+
+**Additional Information:**
+- BLUELAND has superior air-to-air refueling and command & control capabilities.
+- BLUELAND pilots are highly trained and experienced in urban warfare.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+**BLUELAND Intel Report - Operation Chimera**
+
+**Commander's Intent:**
+- 100% Target of Opportunity (TOT) destruction
+- 50% BLUELAND aircraft losses acceptable
+- 100% REDLAND military infrastructure destroyed
+
+**Force Composition:**
+
+**REDLAND:**
+- 4th Air Fleet: 20 x F-22 Raptor fighter jets, 8 x A-10 Thunderbolt II strike aircraft, 4 x Su-35 Flanker-E fighter jets, 24 x SA-10 Torpedo surface-to-air missile launchers, 60 x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems.
+- Ground forces: 2 Regiments of motorized infantry, equipped with anti-tank missiles and heavy machine guns.
+
+**Geography:**
+- Target: 100nm NE of REDLAND capital
+- REDLAND border: 500nm S
+- Environmental conditions: Dawn, clear skies, scattered buildings and light vegetation.
+
+**Surrounding Conditions:**
+- REDLAND military alert posture, increased air-defense readiness.
+- Friendly forces: 1 squadron of reconnaissance aircraft deployed 50nm SW of target.
+
+**Target Details:**
+- 3 hardened bunkers, each equipped with SA-23 anti-aircraft missiles and surface-to-ground rockets.
+- Central command and control facility, reinforced concrete structure.
+
+**Rules of Engagement:**
+- Engage only identified hostile forces.
+- Prioritize air-to-air engagements over ground targets.
+- Use precision-guided munitions whenever possible.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Storm
+
+**Commander's Intent:**
+* Capture 100% Target of Opportunity (TOT)
+* Achieve 50% BLUELAND aircraft losses
+* Ensure 100% REDLAND Air Force and infrastructure destruction
+* Destroy all underground bunkers within the target area
+
+**Force Composition:**
+- REDLAND Air Force: 24 x F-35A Lightning II fighter jets, 12 x Su-35 Flanker-C fighter jets, 6 x SA-10 Surface-to-Air Missile (SAM) batteries, 100 x ZSU-23-4 Shilka self-propelled anti-aircraft guns.
+- REDLAND Ground Forces: 30,000 troops, equipped with modern infantry weapons and equipment.
+
+**Geography:**
+- Target distance: 200nm
+- REDLAND border distance: 300nm
+- Environmental Conditions: Night, cloud cover 5/8, visibility 10km, wind 10kts.
+
+**Surrounding Conditions:**
+- REDLAND forces are deploying towards the target area.
+- Friendly forces hold air superiority in the region.
+- Local infrastructure is sparse and vulnerable.
+
+**Target Details:**
+- 3 underground bunker complexes, each containing 10 hardened command centers.
+- Highly-defended industrial complex, primary REDLAND production centre.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces that threaten mission objectives.
+- Exercise caution to minimize civilian casualties.
+- Maintain operational security and avoid revealing mission details.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Golden Hammer
+
+**Commander's Intent:**
+
+- Capture 100% Total Operational Capability (TOC)
+- Limit BLUELAND losses to 50%
+- Ensure 100% destruction of REDLAND forces and infrastructure
+- Destroy all underground bunkers in the target area
+
+**Force Composition:**
+
+- REDLAND Air Force: 24 F-18E Hornet fighter jets, 12 Su-35 Flanker-B fighter jets, 6 Su-27SM3 fighter jets, 6 MiG-29 Fulcrum-D fighter jets, 24 SA-10 surface-to-air missile (SAM) launchers, 48 ZSU-23-4 Shilka self-propelled anti-aircraft guns (SPAs).
+- REDLAND Ground Forces: 40,000 infantry, 10,000 armored vehicles, 100 artillery pieces.
+
+**Geography:**
+
+- Target distance: 200nm
+- REDLAND border distance: 300nm
+- Environmental conditions: Day, clear skies, 20°C, moderate wind.
+
+**Surrounding Conditions:**
+
+- REDLAND is deploying reinforcements towards the target area.
+- Strong electronic warfare presence, including SAM systems and jamming.
+- Urbanized target area with heavy civilian infrastructure.
+
+**Target Details:**
+
+- 4 underground bunkers, each with reinforced concrete walls and steel blast doors.
+- Major military airfield with hardened aircraft shelters.
+
+**Rules of Engagement:**
+
+- Engage only REDLAND forces identified as hostile.
+- Avoid civilian casualties and damage to non-military infrastructure.
+- Maintain operational security and avoid detection.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Golden Hammer
+
+**Commander's Intent:**
+- Capture 100% Total Operational Tempo (TOT)
+- Suffer no more than 50% BLUELAND aircraft losses
+- Destroy all REDLAND military infrastructure and forces
+- Eliminate all underground bunkers within the target area
+
+**Force Composition:**
+- REDLAND Air Force: 40 x F-22 Raptor fighter jets, 20 x SU-35 Flanker-B fighter jets, 12 x KA-50 Blackjack bomber aircraft, 20 x SA-12 SAM launchers, 40 x ZSU-23-4 Shilka SPAAGs.
+- REDLAND Surface Forces: 30 x BTR-90 armored personnel carriers, 60 x T-90 main battle tanks, 100 x BMP-3 infantry fighting vehicles.
+
+**Geography:**
+- Target distance: 250nm
+- REDLAND border distance: 500nm
+- Environment: Dawn, partially cloudy with 10/10 visibility, moderate winds.
+- Buildings and vegetation dense urban environment, extensive ditch network.
+
+**Surrounding Conditions:**
+- REDLAND forces on high alert, poised for aerial engagement.
+- Intelligence suggests REDLAND is actively deploying new SAM systems to the area.
+- Regional conflict ongoing, potential for friendly force encounters.
+
+**Target Details:**
+- 3 underground bunkers, each housing 500 military personnel and assorted weapons.
+- Key military headquarters building, heavily fortified with blast-proof walls and advanced security systems.
+
+**Rules of Engagement:**
+- Engage only REDLAND forces identified as hostile.
+- Maintain stand-off distance from non-combatant forces.
+- Use proportional force only, minimize civilian casualties.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Shadowfall
+
+**Commander's Intent:**
+- Capture 90% target destruction (TOT)
+- 20% BLUELAND losses acceptable
+- Wipeout REDLAND Air Force and Infrastructure
+- Destroy all underground bunkers in the target area
+
+**Force Composition:**
+- REDLAND:
+    - 30 x F-19 fighter jets (with 2x AIM-120 AMRAAMs each)
+    - 10 x Su-35 fighter jets (with 4x R-73 air-to-air missiles each)
+    - 12 x SA-10 surface-to-air missile launchers
+    - 150 x ZSU-23-4 Shilka SAM systems
+
+**Geography:**
+- Distance to target: 300nm
+- Distance to REDLAND border: 450nm
+- Environment: Day, urban environment, dense high-rise buildings, significant vegetation, river with narrow bridges
+
+**Surrounding Conditions:**
+- REDLAND is deploying additional forces to the area.
+- Limited intelligence available on REDLAND's airbase defenses.
+- High probability of ground-to-air threats.
+
+**Target Details:**
+- 5 heavily fortified industrial complexes
+- 2 underground bunker complexes
+
+**Rules of Engagement:**
+- Engage only REDLAND forces within the target area.
+- Use precision-guided munitions to minimize civilian casualties.
+- Avoid engaging REDLAND SAM systems until absolutely necessary.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## Training Scenario: Operation Crimson Spear
+
+**Commander’s Intent:**
+- Capture 100% target output (TOT)
+- Maximum 50% BLUELAND aircraft losses
+- Ensure 100% REDLAND destruction
+- Destroy all hardened bunkers within the target area
+
+**Force Composition:**
+
+**REDLAND:**
+- 24x F-15C Eagle fighter jets
+- 12x Su-35 Flanker-B fighter jets
+- 6x SA-7 surface-to-air missile launchers
+- 30x ZSU-23-4 Shilka self-propelled anti-aircraft gun systems
+- 2x SAM-3 surface-to-air missile batteries
+
+**Geography:**
+
+- Target distance: 50nm
+- REDLAND border distance: 100nm
+- Environmental conditions: Dawn, clear skies, low cloud cover, moderate wind
+- Structures: Dense urban environment, tall buildings, heavy vegetation
+
+**Surrounding Conditions:**
+
+- REDLAND is deploying reinforcements towards the target area.
+- Intelligence suggests REDLAND's electronic warfare capabilities are active.
+- BLUELAND forces have identified a secondary target at 75nm distance.
+
+**Target Details:**
+
+- 3 hardened bunkers, heavily fortified with steel and concrete.
+- Anti-aircraft defenses include advanced SAM systems and surface-to-air missiles.
+
+**Rules of Engagement:**
+
+- Engage only REDLAND forces within the designated operational area. 
+- Maintain strict control over friendly airspace.
+- Limit civilian casualties and infrastructure damage.
+
+**Additional Information:**
+
+- BLUELAND has access to advanced stealth aircraft and precision-guided munitions.
+- BLUELAND's intel suggests REDLAND is vulnerable to attacks during dawn.<eos>
+
+
+
+
+<bos><start_of_turn>user
+BLUELAND is a make-believe country. REDLAND is another make-believe country, an enemy of BLUELAND. 
+
+Write me a training scenario for an air strike mission by BLUELAND to destroy a specified target. This scenario will be given to BLUELAND, who will devise a strategy to execute the plan. The scenario should be non-descriptive, concise and factual. The information should be sufficient to help BLUELAND to decide their loadout and strategy. The scenario should include the following information about the target and REDLAND: 
+1.	Commander’s Intent: Captures the broad mission objectives (eg: 100% TOT, 50% BLUELAND losses, 100% REDLAND destruction, destroy bunkers, etc)
+2.	Force Composition: REDLAND’s units and objects participating in the scenario, Order of Battle, i.e the identification, strength, command structure, disposition for the personnel, units, equipment of any military force, command & control hierarchies, communication networks and communication channels. This should be specific, i.e exact model of aircraft or missiles (eg: F-15 fighter jets, SA-7 surface-to-air missile launchers, ZSU-23-4 Shilka self-propelled anti-aircraft gun systems, etc). 
+3.	Geography: Distance to target and distance to REDLAND threats  in nautical miles (nm). Specification of environmental conditions which are of interest (eg: day/night/dawn, buildings, vegetation, ditches in surroundings, etc) 
+4.	Surrounding Conditions: Overview of all scenario-related information of interest, i.e surrounding military situation, REDLAND readiness state, etc.
+5.	Target(s) Details:  Any relevant information about target(s), i.e type and number of targets. 
+6.	Rules of Engagement: Directives that outline when and how BLUELAND can engage hostile forces.<end_of_turn>
+<start_of_turn>model
+## BLUELAND AIR STRIKE TRAINING SCENARIO
+
+**Mission Commander's Intent:**
+- Capture 90% total operational effectiveness (TOTE)
+- Limit BLUELAND aircraft losses to 30%
+- Destroy all REDLAND surface-to-air missile (SAM) launchers
+- Eliminate 80% of REDLAND's fixed infrastructure in urban and industrial centers
+- Destroy underground bunkers containing chemical weapons
+
+**Force Composition:**
+- REDLAND forces are deployed in the southern peninsula, operating from air bases and hardened underground facilities.
+- 4th Generation Fighter Wing: 12 x F-22 Raptor fighter jets with advanced stealth capabilities, 8 x F-16 Fighting Falcon multirole fighters.
+- SAM Defense: 6 x SA-10B Grumble SAM launchers, 4 x S-300V surface-to-air missile systems.
+- Anti-Aircraft: 30 x ZSU-23-4 Shilka self-propelled anti-aircraft guns, 15 x Pantsir-S1 air defense missile systems.
+
+**Geography:**
+- Target distance: 250nm
+- REDLAND border distance: 300nm
+- Environmental conditions: Night, urban environment, thick smoke and haze reducing visibility to 4km. 
+
+**Surrounding Conditions:**
+- REDLAND forces are poised for retribution, anticipating an attack.
+- Friendly forces have established an air superiority bubble 100nm from the target.
+- Friendly ground forces are securing the target area.
+
+**Target Details:**
+- 5 hardened underground bunkers, each housing 1000 chemical warheads.
+- 4 major industrial complexes, each with a radar installation and associated infrastructure.
+
+**Rules of Engagement:**
+- Engage REDLAND forces only when identified and engaged by them.
+- Prioritize destruction of SAM launchers and anti-aircraft systems.
+- Avoid civilian casualties and infrastructure damage.<eos>
+
+
+
+

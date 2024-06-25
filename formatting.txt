@@ -1,0 +1,30 @@
+##Training Scenario: Operation Mountain Shield
+**Commander’s Intent:**
+
+* Destroy REDLAND's military capabilities in the mountain region.
+
+**Force Composition:**
+
+* REDLAND Army: 2 infantry units and 1 armored unit
+* REDLAND Air Force: 12 fighter jets and 4 transport aircraft
+* REDLAND Air Defense: 2 batteries of surface-to-air missile systems
+
+**Geography:**
+
+* Distance to target: approximately 200-250 nm
+* Environmental Conditions: daytime mission, clear skies, moderate winds, and scattered clouds.
+
+**Surrounding Conditions:**
+
+* REDLAND's ground forces are on high alert.
+* BLUELAND's intelligence suggests that REDLAND has recently deployed additional air defense systems.
+
+**Target(s) Details:**
+
+* The mountain command center is a key military installation.
+* The main radar station is a radar system.
+
+**Rules of Engagement:**
+
+* Engage hostile forces as needed.
+* Avoid engaging civilian vehicles or aircraft in the area.
